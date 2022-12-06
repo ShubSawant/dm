@@ -1,0 +1,10 @@
+Soap,Detergent,Shampoo,,
+Shampoo,Soap,,,
+Pen,Book,Soap,Milk,
+Milk,Bread,Pen,,
+Soap,Milk,Pen,Bread,Shampoo
+Shampoo,Pen,Bread,,
+Milk,Rice,Bread,Soap,Detergent
+Detergent,Rice,Milk,,
+Pen,Book,Milk,,
+Milk,,,,

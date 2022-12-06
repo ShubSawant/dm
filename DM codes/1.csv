@@ -1,0 +1,10 @@
+entropy is the randomness of the data.Higher random values imply higher entropy.If the entropy of data is less,
+information gain will be more . the more the info gain the better is the split.
+entropy of a dataset before and after a split is used to calculate information gain.
+entropy(s) = -< pilog2pi where pi is the probability of randomly selecting an example in class i.
+info gain can be defined as measure of how much info feature provides about a class. it helpsto determine the order of attribtes in nodes of decision tree.
+gain = eparent-echild where eparent is entropy of paretn node echild is avg.entropyofchild.
+algorithm:
+read data from csv file.defined function to calculate entropy.calcualte freq of disticnt valye in parti.column.calculate prob of distinct values in parti.colum.
+calculaate entropy using following from
+similar manner calculate info gain and find entropy of childcol.return info gain
