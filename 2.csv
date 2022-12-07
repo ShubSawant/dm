@@ -1,0 +1,4 @@
+entropy is the degrre of uncertainity impurity or disorder of a random variable or a measure of impurity
+info gain is used for determining the best feature/ attribure that reads maximum info abt a class.info gain computes the diff b.w entropy befire and after split and specifies the impurity in class elemeemts
+gian = totalentr-entr of attribute
+
